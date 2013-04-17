@@ -1,7 +1,7 @@
 AOmniBar
 ========
 
-Desktop reference tool. 
+Desktop reference tool. See: http://every-dave.blogspot.com/2013/04/omni-bar-desktop-tool.html 
 
 Copyright (c) 2012-13 David Rehmat
 
