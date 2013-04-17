@@ -1,0 +1,15 @@
+package com.omni;
+
+public enum Speech {
+	
+	ADJECTIVE,
+	PREPOSISTION,
+	CONJUNCTION,
+	INTERJECTION,
+	VERB,
+	NOUN,
+	ADVERB,
+	PARTICIPLE,
+	UNKNOWN;
+	
+}
